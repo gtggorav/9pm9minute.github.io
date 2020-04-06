@@ -1,0 +1,62 @@
+body{
+    background-color: rgb(114, 113, 113) ;
+    margin: 0 auto;
+}
+.date{
+    font-size: 15px;
+    font-weight: bolder;
+    text-align: center;
+    margin-top: 20px;
+}
+.pm{
+    color:rgb(21, 122, 255);
+    font-size: 28px;
+    text-align: center;
+    margin-top: 10px;
+}
+.green{
+    color: rgb(0, 255, 42);
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: 19px;
+}
+
+.light{
+    
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 60%;
+
+
+    
+
+}
+.diya {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
+        margin-top: 20px;
+        display: none ;
+}
+
+.footer{
+    
+    
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom:0px;
+    
+    font-size: 15px;
+    
+
+}
+.footer :hover{
+    color: cyan;
+    
+}
+
